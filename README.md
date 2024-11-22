@@ -1,4 +1,4 @@
-This repository contains data and code for reproducing results presented in the manuscript "Artificial Vs Human Intelligence: A Case Study Of Pun-Based Jokes’ Translation" (Elena S. Rudenko and Marina Yu. Semenova) submitted for review in 'Research result. Theoretical and Applied Linguistics'
+This repository contains data and code for reproducing results presented in the manuscript "Artificial Vs Human Intelligence: A Case Study Of Pun-Based Jokes’ Translation" (Elena S. Rudenko and Marina Yu. Semenova) submitted for review in 'Research Result. Theoretical and Applied Linguistics'
 
 Folder “Tables” contains tables illustrating linguistic features of the pun-based jokes under analysis.
 
